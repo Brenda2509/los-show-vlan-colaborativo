@@ -1,0 +1,8 @@
+Este es un proyecto para prueba de nuevos comandos de git
+
+se trata de una pagina hecga en bootstrap
+
+Colaboradores
+ 1.- Brenda Lizet
+ 2.- David Saldaña
+ 3.-Julio Cesar
